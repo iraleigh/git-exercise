@@ -1,4 +1,4 @@
-This is version 1 of the README.md
+This is version 2 of the README.md
 
 #### Part 1 ####
 
@@ -70,7 +70,7 @@ Nick -
 Matt -
 
 
-Alvin -
+Alvin - My favorite hobby is to finding great movies to watch at home.
 
 
 Jiri -
