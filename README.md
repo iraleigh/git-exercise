@@ -18,9 +18,9 @@ repository.
 
 #### Here is a description of the commands we will use: ####
 * git clone - to copy the GitHub repository on to our local machines
-  * e.g. ```git clone 
+  * e.g. ```git clone https://github.com/iraleigh/git-exercise.git
          ```
-* git add - to add out local changes to our local repository
+* git add - to add our local changes to our local repository
   * e.g. ```git add .
          ```
 * git commit - to save the state of our _working_ local reposity and prepare it for the GitHub repository
@@ -28,6 +28,9 @@ repository.
          ```
 * git push - to push all of our commits to the GitHub repository
   * e.g. ```git push origin master
+         ```
+* git pull - to get the latest changes from the GitHub repository in our local repository
+  * e.g. ```git pull 
          ```
 
 #### Team Members: ####
