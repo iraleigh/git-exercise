@@ -16,15 +16,13 @@ Now for the fun part.
 We will use git commands to add, commit, and then push our changes to the
 repository.
 
-Here is a description of the commands we will use.
+#### Here is a description of the commands we will use: ####
 
-git add -
-We will use
+* git add - to add out local changes to our local repository
+* git commit - to save the state of our _working_ local reposity and prepare it for the GitHub repository
+* git push - to push all of our commits to the GitHub repository
 
-git commit -
-We will use
-
-git push -
+#### Team Members: ####
 
 Anna -
 
