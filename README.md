@@ -45,7 +45,7 @@ repository.
          ```
 * git pull - to get the latest changes from the GitHub repository in our local repository
   * e.g. ```git pull 
-         ````
+         ```
 
 #### After we have made our changes: ####
 
