@@ -24,19 +24,19 @@ repository.
 
 #### Team Members: ####
 
-Anna -
+Aura -
 
 
-Benson -
+Nick -
 
 
-Chris -
+Matt -
 
 
-David -
+Alvin -
 
 
-Thomas -
+Jiri -
 
 
-Tricia -
+Iain -
