@@ -77,3 +77,11 @@ Jiri -
 
 
 Iain -
+
+
+
+#### References: ####
+* http://git-scm.com/
+* http://rogerdudler.github.io/git-guide/
+
+
