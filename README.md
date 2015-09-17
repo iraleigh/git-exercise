@@ -9,7 +9,7 @@ https://git-scm.com/downloads
 
 You will need to clone this repository. This can be done by opening your terminal,
 navigating to where you want to store the files on your computer(using terminal),
-and typing git clone https://github.com/iraleigh/git-exercise.git
+and typing ```git clone https://github.com/iraleigh/git-exercise.git```
 
 Now you should have a copy of the code from the repository.
 
