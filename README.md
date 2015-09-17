@@ -17,10 +17,18 @@ We will use git commands to add, commit, and then push our changes to the
 repository.
 
 #### Here is a description of the commands we will use: ####
-
+* git clone - to copy the GitHub repository on to our local machines
+  * e.g. ```git clone 
+         ```
 * git add - to add out local changes to our local repository
+  * e.g. ```git add .
+         ```
 * git commit - to save the state of our _working_ local reposity and prepare it for the GitHub repository
+  * e.g. ```git commit -m "Added my bio"
+         ```
 * git push - to push all of our commits to the GitHub repository
+  * e.g. ```git push origin master
+         ```
 
 #### Team Members: ####
 
