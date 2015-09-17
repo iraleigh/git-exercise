@@ -45,21 +45,19 @@ repository.
          ```
 * git pull - to get the latest changes from the GitHub repository in our local repository
   * e.g. ```git pull 
-         ```
+         ````
 
-First we will use
-> git add README.md
+#### After we have made our changes: ####
 
-This tells git that we want it to keep track of the changes we made to the README
+1. First we will use
+   ```git add README.md``` This tells git that we want it to keep track of the changes we made to the README
 
-Next we will commit the changes using
-> git commit -m "Type a commit message here, what did you add?"
+2. Next we will commit the changes using
+   ```git commit -m "Type a commit message here, what did you add?"``` This makes a record of our code at this point in time if we need to refer back to it.
 
-This makes a record of our code at this point in time if we need to refer back to it.
-
-Lastly we need to push our changes to the repository so that the rest of the team
+3. Lastly we need to push our changes to the repository so that the rest of the team
 can received the changes we have made. We will use
-> git push origin master
+   ```git push origin master```
 
 #### Team Members: ####
 
