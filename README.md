@@ -73,7 +73,7 @@ Matt -
 Alvin - My favorite hobby is to finding great movies to watch at home.
 
 
-Jiri -
+Jiri - My favorite thing in the world is designing apps: https://dribbble.com/jiri
 
 
 Iain - My favorite hobby is surfing.
