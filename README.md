@@ -64,7 +64,7 @@ can received the changes we have made. We will use
 Aura -
 
 
-Nick -
+Nick - One of my hobbies is playing Magic the Gathering.
 
 
 Matt -
