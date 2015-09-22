@@ -61,7 +61,7 @@ can received the changes we have made. We will use
 
 #### Team Members: ####
 
-Aura -
+Aura - I like to play piano.
 
 
 Nick - One of my hobbies is playing Magic the Gathering.
@@ -70,7 +70,7 @@ Nick - One of my hobbies is playing Magic the Gathering.
 Matt -
 
 
-Alvin - My favorite hobby is finding ways to not do work.
+Alvin - My favorite hobby is to finding great movies to watch at home.
 
 
 Jiri - My favorite thing in the world is designing apps: https://dribbble.com/jiri
