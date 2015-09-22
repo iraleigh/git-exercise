@@ -70,7 +70,7 @@ Nick -
 Matt -
 
 
-Alvin - My favorite hobby is to finding great movies to watch at home.
+Alvin - My favorite hobby is finding ways to not do work.
 
 
 Jiri - My favorite thing in the world is designing apps: https://dribbble.com/jiri
